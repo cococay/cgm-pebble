@@ -225,9 +225,9 @@ static const uint8_t BT_ALERT_WAIT_SECS = 45;
 
 // Message Timer & Animate Wait Times, in Seconds
 static const uint8_t WATCH_MSGSEND_SECS = 60;
-static const uint8_t LOADING_MSGSEND_SECS = 6;
-static const uint8_t PERFECTBG_ANIMATE_SECS = 10;
-static const uint8_t AWESOMEBG_ANIMATE_SECS = 10;
+static const uint8_t LOADING_MSGSEND_SECS = 1;
+static const uint8_t PERFECTBG_ANIMATE_SECS = 60;
+static const uint8_t AWESOMEBG_ANIMATE_SECS = 60;
 
 // App Sync / Message retries, for timeout / busy problems
 // Change to see if there is a temp or long term problem
