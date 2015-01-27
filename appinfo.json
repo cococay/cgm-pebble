@@ -193,7 +193,7 @@
     "shortName": "NS-Nightscout",
     "uuid": "4bfa0b46-b9fa-4e1a-b2ba-a2ba7168f897",
     "versionCode": 12,
-    "versionLabel": "2.6.4",
+    "versionLabel": "2.64",
     "watchapp": {
         "watchface": true
     }
