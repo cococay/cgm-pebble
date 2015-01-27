@@ -13,7 +13,7 @@
         "configurable"
     ],
     "companyName": "Nightscout Contributors",
-    "longName": "NIGHTSCOUT",
+    "longName": "NS-NIGHTSCOUT",
     "projectType": "native",
     "resources": {
         "media": [
@@ -190,10 +190,10 @@
             }
         ]
     },
-    "shortName": "Nightscout",
+    "shortName": "NS-Nightscout",
     "uuid": "4bfa0b46-b9fa-4e1a-b2ba-a2ba7168f897",
     "versionCode": 12,
-    "versionLabel": "6.4",
+    "versionLabel": "NS",
     "watchapp": {
         "watchface": true
     }
